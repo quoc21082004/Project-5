@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b73740ecd18ce76488f825b7e9262fdb, type: 3}
+  m_Name: Asset
+  m_EditorClassIdentifier: 
+  healthEffect: {fileID: 3546327803755576909, guid: 0ef0f4e99785e4e45ad2800fd2757eb9,
+    type: 3}
+  manaEffect: {fileID: 5470955868081948954, guid: 6ce9bb86e3e1199458fca02a90b65f34,
+    type: 3}
+  dashInEffect: {fileID: 656741705983709661, guid: fd6def0eb10850a429073b0f9b0907a9,
+    type: 3}
+  dashOutEffect: {fileID: 8718204254727660506, guid: 9e5ac5c81a3b7154dbd1121e59eccdae,
+    type: 3}
+  bloodEffect: {fileID: 6750344958600821900, guid: 971fee614b62a5b4a847c5b8c1cddd44,
+    type: 3}
+  daethEffect: {fileID: 0}
+  knockbackEffect: {fileID: 1228290149445232022, guid: 79c12d1ce98e88a45863c867585ac634,
+    type: 3}
