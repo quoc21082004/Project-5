@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a6e732201e90004da38f07a0806030f, type: 3}
+  m_Name: Explosion Circle
+  m_EditorClassIdentifier: 
+  skillInfo:
+    Name: Explosion Circle
+    Description: 
+    Icon: {fileID: -957859435, guid: adda5677579224a4c8fa33efdad1613d, type: 3}
+    AbilityIcon: {fileID: -957859435, guid: adda5677579224a4c8fa33efdad1613d, type: 3}
+    Rarity: 0
+  type: 0
+  isUnlock: 1
+  learnCost: 0
+  baseCastDelay: 2
+  baseCostMana: 50
+  baseCoolDown: 10
+  maxUseRange: 7
+  baseDamage: 3000
+  spellPrefab: {fileID: 1602144284559460595, guid: dfcadc6d58f841d48b706148ea0e5760,
+    type: 3}
