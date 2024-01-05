@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0961e113ddebc1e4d9a9af2c4282f652, type: 3}
+  m_Name: Health_Bottle(C)
+  m_EditorClassIdentifier: 
+  name: Health Rank (C)
+  icon: {fileID: 5168887866551961611, guid: 59161756a60125e40a19a4dae9c9d189, type: 3}
+  itemNumber: 4
+  currentAmt: 1
+  isStackable: 1
+  itemDescription: Recover 10-20% max health
+  flavor: Use to recover mana
+  buyPrice: 702
+  sellPrice: 300
+  consumableType: 0
+  type: 4
+  minPercent: 10
+  maxPercent: 20

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f445f58b6a2e4794da5cd9024df34db0, type: 3}
+  m_Name: Player Data
+  m_EditorClassIdentifier: 
+  a: 123
+  basicStats:
+    health: 9000
+    mana: 1000
+    movementSpeed: 150
+    DashSpeed: 5
+    healthRegen: 1
+    manaRegen: 1
+  basicAttack:
+    wandDamage: 10
+    critChance: 30
+    minCritDamage: 21.5
+    maxCritDamage: 26
+    attackSpeed: 0.5
+    builetSpeed: 10
+    coolDown: 0
+  otherStats:
+    costMP: 5
+    damageReduction: 1
+  levelUp:
+    level: 16
+    skillPoint: 99
+    exp: 602.4868
+    expToLvl: 1540.703
+  extraBuff:
+    extraExp: 12
+    extraCoins: 1
+    percentDamage: 1
+    extraSpeedAttack: 1
+    extraSpeedMove: 1.2
+  upgrade:
+    powerlevel: 0
+    magiclevel: 0
+    hastelevel: 0
+    vitalitylevel: 0
+    greedlevel: 0
