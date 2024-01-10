@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: ce853989e82e3f5409880813c13a326c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8167456657786369175
+    second: ManaBurstHit_0
+  - first:
+      213: -7928503848489857914
+    second: ManaBurstHit_1
+  - first:
+      213: 2028639607289256396
+    second: ManaBurstHit_2
+  - first:
+      213: -144043399844403936
+    second: ManaBurstHit_3
+  - first:
+      213: -4510119279770542627
+    second: ManaBurstHit_4
+  - first:
+      213: -4963352251369477981
+    second: ManaBurstHit_5
+  - first:
+      213: 4845371980743921509
+    second: ManaBurstHit_6
+  - first:
+      213: -5104062759233395283
+    second: ManaBurstHit_7
+  - first:
+      213: 3418781963926045075
+    second: ManaBurstHit_8
+  - first:
+      213: -2690671826615061025
+    second: ManaBurstHit_9
+  - first:
+      213: 6303556646025249571
+    second: ManaBurstHit_10
+  - first:
+      213: -1561530958187441709
+    second: ManaBurstHit_11
+  - first:
+      213: -3427961667695504472
+    second: ManaBurstHit_12
+  - first:
+      213: 5908885194962006700
+    second: ManaBurstHit_13
+  - first:
+      213: -6532474113886401309
+    second: ManaBurstHit_14
+  - first:
+      213: -4980039112707050968
+    second: ManaBurstHit_15
+  - first:
+      213: -431758148550142092
+    second: ManaBurstHit_16
+  - first:
+      213: 7221903771864309006
+    second: ManaBurstHit_17
+  - first:
+      213: -2387327486163343077
+    second: ManaBurstHit_18
+  - first:
+      213: -1667379935946216998
+    second: ManaBurstHit_19
+  - first:
+      213: 4843779763787492391
+    second: ManaBurstHit_20
+  - first:
+      213: -1085753635307793495
+    second: ManaBurstHit_21
+  - first:
+      213: -4636874263778515201
+    second: ManaBurstHit_22
+  - first:
+      213: -8887871467012861870
+    second: ManaBurstHit_23
+  - first:
+      213: 6691983282001591839
+    second: ManaBurstHit_24
+  - first:
+      213: -6153121338048784531
+    second: ManaBurstHit_25
+  - first:
+      213: 8988033470045416610
+    second: ManaBurstHit_26
+  - first:
+      213: 6101404975160557110
+    second: ManaBurstHit_27
+  - first:
+      213: 7817519019011515238
+    second: ManaBurstHit_28
+  - first:
+      213: 7229671851230922480
+    second: ManaBurstHit_29
+  - first:
+      213: -3724563356386532908
+    second: ManaBurstHit_30
+  - first:
+      213: 7805928056240343175
+    second: ManaBurstHit_31
+  - first:
+      213: 6928731299380655895
+    second: ManaBurstHit_32
+  - first:
+      213: 7415304455301458927
+    second: ManaBurstHit_33
+  - first:
+      213: 9136486105728439776
+    second: ManaBurstHit_34
+  - first:
+      213: 7120482208390856397
+    second: ManaBurstHit_35
+  - first:
+      213: 3379788275544385680
+    second: ManaBurstHit_36
+  - first:
+      213: -7216557053875214911
+    second: ManaBurstHit_37
+  - first:
+      213: 7689897772662995317
+    second: ManaBurstHit_38
+  - first:
+      213: -8066033861527196745
+    second: ManaBurstHit_39
+  - first:
+      213: -3991265275020141286
+    second: ManaBurstHit_40
+  - first:
+      213: -6385558381860963111
+    second: ManaBurstHit_41
+  - first:
+      213: -7771784967921842750
+    second: ManaBurstHit_42
+  - first:
+      213: -7908790523223117138
+    second: ManaBurstHit_43
+  - first:
+      213: -6827501010372207481
+    second: ManaBurstHit_44
+  - first:
+      213: 1817226939135358404
+    second: ManaBurstHit_45
+  - first:
+      213: -4123307947181770719
+    second: ManaBurstHit_46
+  - first:
+      213: -6909604350663409540
+    second: ManaBurstHit_47
+  - first:
+      213: 8530623193225061143
+    second: ManaBurstHit_48
+  - first:
+      213: 1196152248943660121
+    second: ManaBurstHit_49
+  - first:
+      213: -6745255322677666186
+    second: ManaBurstHit_50
+  - first:
+      213: 7696907837325168850
+    second: ManaBurstHit_51
+  - first:
+      213: -3671791604628056215
+    second: ManaBurstHit_52
+  - first:
+      213: -1564075905639635663
+    second: ManaBurstHit_53
+  - first:
+      213: 8505012224087453340
+    second: ManaBurstHit_54
+  - first:
+      213: -995316131951516741
+    second: ManaBurstHit_55
+  - first:
+      213: -1152180678080758069
+    second: ManaBurstHit_56
+  - first:
+      213: 8525014335928766753
+    second: ManaBurstHit_57
+  - first:
+      213: -2580300350165786164
+    second: ManaBurstHit_58
+  - first:
+      213: 261056922238709436
+    second: ManaBurstHit_59
+  - first:
+      213: -8696174497067964237
+    second: ManaBurstHit_60
+  - first:
+      213: 1709586335029768344
+    second: ManaBurstHit_61
+  - first:
+      213: 6400540381058645669
+    second: ManaBurstHit_62
+  - first:
+      213: -2694821983234724940
+    second: ManaBurstHit_63
+  - first:
+      213: 4260881888865068661
+    second: ManaBurstHit_64
+  - first:
+      213: 726247984330492787
+    second: ManaBurstHit_65
+  - first:
+      213: 6532109604573478440
+    second: ManaBurstHit_66
+  - first:
+      213: -1145414435434657799
+    second: ManaBurstHit_67
+  - first:
+      213: 5492332964996933270
+    second: ManaBurstHit_68
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ManaBurstHit_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79471c5ae82a85170800000000000000
+      internalID: 8167456657786369175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaBurstHit_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68cc17eb1cb48f190800000000000000
+      internalID: -7928503848489857914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaBurstHit_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc993c189fc272c10800000000000000
+      internalID: 2028639607289256396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaBurstHit_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025e8008a41400ef0800000000000000
+      internalID: -144043399844403936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaBurstHit_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddd2a22966d861c0800000000000000
+      internalID: -4510119279770542627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaBurstHit_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8acf1ac61ae1bb0800000000000000
+      internalID: -4963352251369477981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaBurstHit_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f4fd405283e3340800000000000000
+      internalID: 4845371980743921509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaBurstHit_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5e79486f9ba29b0800000000000000
+      internalID: -5104062759233395283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaBurstHit_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391035c2514f17f20800000000000000
+      internalID: 3418781963926045075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaBurstHit_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5357fba30d8aad0800000000000000
+      internalID: -2690671826615061025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaBurstHit_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32343e33f5bba7750800000000000000
+      internalID: 6303556646025249571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaBurstHit_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1567bedd3545ae0800000000000000
+      internalID: -1561530958187441709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaBurstHit_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a39a5d760f6d60d0800000000000000
+      internalID: -3427961667695504472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaBurstHit_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2764837c3900250800000000000000
+      internalID: 5908885194962006700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ManaBurstHit_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 472
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eccd59676df755a0800000000000000
+      internalID: -6532474113886401309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ManaBurstHit_0: 8167456657786369175
+      ManaBurstHit_1: -7928503848489857914
+      ManaBurstHit_10: 6303556646025249571
+      ManaBurstHit_11: -1561530958187441709
+      ManaBurstHit_12: -3427961667695504472
+      ManaBurstHit_13: 5908885194962006700
+      ManaBurstHit_14: -6532474113886401309
+      ManaBurstHit_2: 2028639607289256396
+      ManaBurstHit_3: -144043399844403936
+      ManaBurstHit_4: -4510119279770542627
+      ManaBurstHit_5: -4963352251369477981
+      ManaBurstHit_6: 4845371980743921509
+      ManaBurstHit_7: -5104062759233395283
+      ManaBurstHit_8: 3418781963926045075
+      ManaBurstHit_9: -2690671826615061025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
