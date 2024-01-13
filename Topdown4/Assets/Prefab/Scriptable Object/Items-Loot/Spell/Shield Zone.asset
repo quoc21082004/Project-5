@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b4c379a815038b4485afecdc9177349, type: 3}
+  m_Name: Shield Zone
+  m_EditorClassIdentifier: 
+  name: Shield Zone
+  icon: {fileID: 1539473624, guid: 2c0a5f713c260ac4fa4cd1a09b6fb887, type: 3}
+  itemNumber: 1
+  currentAmt: 1
+  isStackable: 0
+  itemDescription: Use to open new Skill
+  flavor: Can use only 1 time
+  buyPrice: 7000
+  sellPrice: 4500
+  consumableType: 3
+  type: 4
+  spell: {fileID: 11400000, guid: 609cf7060e7fe4045843e48e623ebe74, type: 2}
