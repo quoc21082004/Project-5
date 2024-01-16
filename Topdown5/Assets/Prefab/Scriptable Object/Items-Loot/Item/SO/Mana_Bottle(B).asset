@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0961e113ddebc1e4d9a9af2c4282f652, type: 3}
+  m_Name: Mana_Bottle(B)
+  m_EditorClassIdentifier: 
+  name: Mana Rank (B)
+  icon: {fileID: 258794442815200856, guid: 06c1215de0f4b8e4fa2f05b5d1eae647, type: 3}
+  itemNumber: 6
+  currentAmt: 1
+  isStackable: 1
+  itemDescription: Recover 25-35% max mana
+  flavor: Use to recover mana
+  buyPrice: 801
+  sellPrice: 400
+  consumableType: 1
+  type: 4
+  minPercent: 25
+  maxPercent: 35
