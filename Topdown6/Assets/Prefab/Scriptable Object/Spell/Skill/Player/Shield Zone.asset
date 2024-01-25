@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a6e732201e90004da38f07a0806030f, type: 3}
+  m_Name: Shield Zone
+  m_EditorClassIdentifier: 
+  skillInfo:
+    Name: Shield Zone
+    Description: 
+    Icon: {fileID: 1539473624, guid: 2c0a5f713c260ac4fa4cd1a09b6fb887, type: 3}
+    AbilityIcon: {fileID: 1539473624, guid: 2c0a5f713c260ac4fa4cd1a09b6fb887, type: 3}
+    Rarity: 0
+  type: 4
+  isUnlock: 0
+  learnCost: 1400
+  baseCastDelay: 1
+  baseCostMana: 150
+  baseCoolDown: 10
+  maxUseRange: 0
+  baseDamage: 200
+  spellPrefab: {fileID: 3259117677166272708, guid: 399467871408f3042aae57b1bb75a155,
+    type: 3}

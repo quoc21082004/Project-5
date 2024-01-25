@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a6e732201e90004da38f07a0806030f, type: 3}
+  m_Name: Explosion Builet
+  m_EditorClassIdentifier: 
+  skillInfo:
+    Name: Explosion Builet
+    Description: 
+    Icon: {fileID: 1162703340, guid: acd9da3fff2ff15498ef9316d886c158, type: 3}
+    AbilityIcon: {fileID: 1162703340, guid: acd9da3fff2ff15498ef9316d886c158, type: 3}
+    Rarity: 0
+  type: 1
+  isUnlock: 1
+  learnCost: 1400
+  baseCastDelay: 0.5
+  baseCostMana: 50
+  baseCoolDown: 1
+  maxUseRange: 6
+  baseDamage: 3400
+  spellPrefab: {fileID: 5999793197513683340, guid: a8d1b6488656bad469526505b86e996c,
+    type: 3}

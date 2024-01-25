@@ -1,0 +1,554 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.16f1 (d2c21f0ef2f1) revision 13812255'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 5984 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/quoc2/Desktop/Topdown-main (1)/Topdown-main/Game5
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52161
+Successfully changed project path to: C:/Users/quoc2/Desktop/Topdown-main (1)/Topdown-main/Game5
+C:/Users/quoc2/Desktop/Topdown-main (1)/Topdown-main/Game5
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [7236] Host "[IP] 192.168.1.6 [Port] 0 [Flags] 2 [Guid] 409096152 [EditorId] 409096152 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-61OTVC9) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [7236] Host "[IP] 192.168.1.6 [Port] 0 [Flags] 2 [Guid] 409096152 [EditorId] 409096152 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-61OTVC9) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 1 workers.
+Refreshing native plugins compatible for Editor in 852.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.16f1 (d2c21f0ef2f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/quoc2/Desktop/Topdown-main (1)/Topdown-main/Game5/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 600 (ID=0x3185)
+    Vendor:   Intel
+    VRAM:     2992 MB
+    Driver:   31.0.101.2111
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56012
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.290731 seconds.
+- Loaded All Assemblies, in  1.817 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.827 seconds
+Domain Reload Profiling: 2639ms
+	BeginReloadAssembly (805ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (4ms)
+	RebuildCommonClasses (110ms)
+	RebuildNativeTypeToScriptingClass (36ms)
+	initialDomainReloadingComplete (497ms)
+	LoadAllAssembliesAndSetupDomain (364ms)
+		LoadAssemblies (770ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (359ms)
+			TypeCache.Refresh (356ms)
+				TypeCache.ScanAssembly (325ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (828ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (678ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (22ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (13ms)
+			ProcessInitializeOnLoadAttributes (495ms)
+			ProcessInitializeOnLoadMethodAttributes (125ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  9.165 seconds
+Refreshing native plugins compatible for Editor in 74.61 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.939 seconds
+Domain Reload Profiling: 12014ms
+	BeginReloadAssembly (996ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (15ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (219ms)
+	RebuildCommonClasses (91ms)
+	RebuildNativeTypeToScriptingClass (28ms)
+	initialDomainReloadingComplete (146ms)
+	LoadAllAssembliesAndSetupDomain (7808ms)
+		LoadAssemblies (6833ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1614ms)
+			TypeCache.Refresh (956ms)
+				TypeCache.ScanAssembly (736ms)
+			ScanForSourceGeneratedMonoScriptInfo (613ms)
+			ResolveRequiredComponents (39ms)
+	FinalizeReload (2944ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2218ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (15ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (452ms)
+			ProcessInitializeOnLoadAttributes (1486ms)
+			ProcessInitializeOnLoadMethodAttributes (221ms)
+			AfterProcessingInitializeOnLoad (25ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (16ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.58 seconds
+Refreshing native plugins compatible for Editor in 11.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3582 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 77 unused Assets / (0.9 MB). Loaded Objects now: 4044.
+Memory consumption went from 143.7 MB to 142.8 MB.
+Total: 44.720200 ms (FindLiveObjects: 9.467700 ms CreateObjectMapping: 0.572200 ms MarkObjects: 25.697800 ms  DeleteObjects: 8.978900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 396403.499463 seconds.
+  path: Assets/Resources/Textures/TitleSet Base/Tilemap Dungeon original size.png
+  artifactKey: Guid(9c190a776c6c2a445ad63c7887fa4b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Textures/TitleSet Base/Tilemap Dungeon original size.png using Guid(9c190a776c6c2a445ad63c7887fa4b73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edc9ad07b629a20164efbe706db67148') in 1.874803 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 101
+========================================================================
+Received Import Request.
+  Time since last request: 1232.152124 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d632f49bc8643dd76d5b276f9fa195') in 1.364413 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 47
+========================================================================
+Received Import Request.
+  Time since last request: 3.254413 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df290324d7fbde35b0413c6c92699b33') in 0.333845 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 47
+========================================================================
+Received Import Request.
+  Time since last request: 4.605228 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9172ab8ffcab1f3c2a39ca23c15cea64') in 0.245658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 47
+========================================================================
+Received Import Request.
+  Time since last request: 290.038559 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e477ed2353d1b11e2d66a6501e496e4') in 4.898315 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 209
+========================================================================
+Received Import Request.
+  Time since last request: 0.016109 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_0.asset
+  artifactKey: Guid(b442f745516598048ad1374a6a5e61ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_0.asset using Guid(b442f745516598048ad1374a6a5e61ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4c78bd9052a35ddb4c39d05d6cac5bd') in 0.197350 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.381250 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1647cdc57daa0ef0926e0f4e2dbe752') in 3.650221 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 209
+========================================================================
+Received Import Request.
+  Time since last request: 0.007785 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a4d9791a504beab8f1c8fe43dfae687') in 5.720008 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 209
+========================================================================
+Received Import Request.
+  Time since last request: 0.000458 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_97.asset
+  artifactKey: Guid(b9223651808676c48a9fa71bd2bb8c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_97.asset using Guid(b9223651808676c48a9fa71bd2bb8c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23d44fea044660a936573aca6f050f1d') in 0.153208 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.007208 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_96.asset
+  artifactKey: Guid(0d2b0a5f96c5d1443a8ef8dd442663fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_96.asset using Guid(0d2b0a5f96c5d1443a8ef8dd442663fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e8d08802f3b3bf72bb70a27b4cd9d0f') in 0.188779 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.791034 seconds.
+  path: Assets/Resources/Title MAp/Base/Wall&Tree
+  artifactKey: Guid(7350854854789874785f221a907bd9f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Wall&Tree using Guid(7350854854789874785f221a907bd9f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e8ab40ae54409a8883c1d66dfc49bce') in 0.004239 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.115847 seconds.
+  path: Assets/Resources/Title MAp/Base/Wall&Tree/[Base]BaseChip_pipo_0.asset
+  artifactKey: Guid(80b5a10e7a68fef4a86eb5b85387f353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Wall&Tree/[Base]BaseChip_pipo_0.asset using Guid(80b5a10e7a68fef4a86eb5b85387f353) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '735869a110e709866d30a8345133de60') in 0.766633 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 18.120182 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70dbbfa5480865a94a55e9f2e811def9') in 0.378873 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 209
+========================================================================
+Received Import Request.
+  Time since last request: 8.519551 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_1.asset
+  artifactKey: Guid(be83e9421610d02489b486164bc7d94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_1.asset using Guid(be83e9421610d02489b486164bc7d94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c82026294324bc0a278d59d6fea3421') in 0.085343 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.371200 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_2.asset
+  artifactKey: Guid(a1e52e8d9eb9f5e4792daf9a54781ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_2.asset using Guid(a1e52e8d9eb9f5e4792daf9a54781ce0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4181bb292458ec04f7572ebf10ab7cfa') in 0.481080 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 22.248649 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_98.asset
+  artifactKey: Guid(df19c4e1ddf646d46a0198ce3ace42a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_98.asset using Guid(df19c4e1ddf646d46a0198ce3ace42a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff2b3d66c5913bf4de90563c02a357e7') in 0.044166 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 96.759313 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2272e0c149cb1dc6e588d259057ca21e') in 0.683208 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 65
+========================================================================
+Received Import Request.
+  Time since last request: 6.127105 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_4.asset
+  artifactKey: Guid(38e25be7815076f4f837ae49da8962ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_4.asset using Guid(38e25be7815076f4f837ae49da8962ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35760f7d8332a492a43d52480f2039d3') in 0.133269 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 3.611375 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_25.asset
+  artifactKey: Guid(ff98df8d6d5bdc64db249e152e4ee1af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_25.asset using Guid(ff98df8d6d5bdc64db249e152e4ee1af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcb99c196f11bccfba937367594fc23d') in 0.069070 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.393809 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_26.asset
+  artifactKey: Guid(db39788ade6c96a48a15b63c588387ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_26.asset using Guid(db39788ade6c96a48a15b63c588387ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f0aa28f243ff08e4a4d79177b4148a') in 0.215225 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 8.710142 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f8eb5ce277efaac57b6d6ac2515378d') in 0.548767 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 38
+========================================================================
+Received Import Request.
+  Time since last request: 46.778247 seconds.
+  path: Assets/Resources/Title MAp/Base/Base.prefab
+  artifactKey: Guid(9f64cd8f2b9dd314281dfe3c2c0a3ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Base.prefab using Guid(9f64cd8f2b9dd314281dfe3c2c0a3ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a0d5b4772fad45b2a703ede9caf6b70') in 6.350021 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 426
+========================================================================
+Received Import Request.
+  Time since last request: 215.795963 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_24.asset
+  artifactKey: Guid(1c37ffa25f9dd2243849eba11502cc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_24.asset using Guid(1c37ffa25f9dd2243849eba11502cc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '565bdd7e2033cb5eae6207152671a467') in 0.094936 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.691118 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_20.asset
+  artifactKey: Guid(81ce6459018c8794c85a37287e999614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_20.asset using Guid(81ce6459018c8794c85a37287e999614) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd7af7cb127c3a151260d42e4dec26a') in 0.071058 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 875.301908 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96684e1060707171d7b2ac4c06fad35c') in 0.130890 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 90.221817 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fba8930a4bd4666b1dcac4901bca670') in 1.514531 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 209
+========================================================================
+Received Import Request.
+  Time since last request: 2.231540 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 1.250424 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/resources/title map/base/dungeon/dungeon.prefab in SourceAssetDB has modification time of '2024-01-24T17:42:43.8847084Z' while content on disk has modification time of '2024-01-24T17:42:45.4879276Z'
+  ERROR: Build asset version error: assets/resources/title map/base/dungeon/dungeon.prefab in SourceAssetDB has modification time of '2024-01-24T17:42:43.8847084Z' while content on disk has modification time of '2024-01-24T17:42:45.4879276Z'
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 199
+========================================================================
+Received Import Request.
+  Time since last request: 0.358285 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f53bb94528c71815a63fb87421d33f') in 1.085064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 209
+========================================================================
+Received Import Request.
+  Time since last request: 0.258437 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72f950002e3a9535279b45ad8e4713b6') in 1.174623 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 209
+========================================================================
+Received Import Request.
+  Time since last request: 44.865824 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_3.asset
+  artifactKey: Guid(22f3b145e04e83c47a180616efbf591a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_3.asset using Guid(22f3b145e04e83c47a180616efbf591a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e8a07bf4a069ff95b73f672bbb4edb1') in 0.434474 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.547281 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_5.asset
+  artifactKey: Guid(b3479196e12989544bebab0c99b37a69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_5.asset using Guid(b3479196e12989544bebab0c99b37a69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13e87249e70e4d202cbc3f06fa5daed1') in 0.105007 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 6.181114 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9836c448f06b74ab3834e651a1fa7628') in 0.660226 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 209
+========================================================================
+Received Import Request.
+  Time since last request: 12.889997 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d758fc819202fb554bcdefcf82f34f') in 0.549634 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 209
+========================================================================
+Received Import Request.
+  Time since last request: 1.358222 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c458c14a9e7b05789f39a68f59ff09cc') in 0.238354 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 209
+========================================================================
+Received Import Request.
+  Time since last request: 1.095768 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f1e3e8ba33adeb504cc1d65ab287040') in 0.366484 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 209
+========================================================================
+Received Import Request.
+  Time since last request: 1206.710493 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f94847720078c6793891f878036f05f') in 0.643485 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 209
+========================================================================
+Received Import Request.
+  Time since last request: 6.369705 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_95.asset
+  artifactKey: Guid(0da53c31ee7923e4781b38b73fd06c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_95.asset using Guid(0da53c31ee7923e4781b38b73fd06c4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5934bb88cddd4eebe44be259f09b90ae') in 0.053462 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 31.038966 seconds.
+  path: Assets/Scenes/Base/Dungeon/Dungeon.unity
+  artifactKey: Guid(ac13a9cb491dea04284a19b0f2fc592e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Base/Dungeon/Dungeon.unity using Guid(ac13a9cb491dea04284a19b0f2fc592e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '942618f162950e67152e8f5a6fb700f6') in 0.001876 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 35.927064 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5856d8bc6731f3497ca336d5bb896b35') in 0.411502 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 42.287431 seconds.
+  path: Assets/Tilemap Dungeon original size_0.asset
+  artifactKey: Guid(0cd7a3462d5eba34db31315365179658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap Dungeon original size_0.asset using Guid(0cd7a3462d5eba34db31315365179658) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '729c00ce7faaaecf69ed8607c82a80b0') in 0.077299 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.841851 seconds.
+  path: Assets/Tilemap Dungeon original size_10.asset
+  artifactKey: Guid(eac003175f7129a44b4d67616e2bbaa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tilemap Dungeon original size_10.asset using Guid(eac003175f7129a44b4d67616e2bbaa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b84af123aaebd4f1d76e1888b4c9f454') in 0.255044 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 51.084773 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a44826d6dd6203c58eb6fb28050249d') in 1.553709 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 66
+========================================================================
+Received Import Request.
+  Time since last request: 65.843128 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '480d5e8e063fef5ac8a11a1860ea54d6') in 0.226728 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000765 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_77.asset
+  artifactKey: Guid(2d356a0fc55570541a6e3298fdcfadc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Tilemap Dungeon original size_77.asset using Guid(2d356a0fc55570541a6e3298fdcfadc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6a05fa2ea836cdd362385a68ea70d94') in 0.113907 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 2.983790 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 1.157766 seconds
+Import Error Code:(4)
+Message: Build asset version error: assets/resources/title map/base/dungeon/dungeon.prefab in SourceAssetDB has modification time of '2024-01-24T18:08:04.2834902Z' while content on disk has modification time of '2024-01-24T18:08:05.6324156Z'
+  ERROR: Build asset version error: assets/resources/title map/base/dungeon/dungeon.prefab in SourceAssetDB has modification time of '2024-01-24T18:08:04.2834902Z' while content on disk has modification time of '2024-01-24T18:08:05.6324156Z'
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.203646 seconds.
+  path: Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab
+  artifactKey: Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Title MAp/Base/Dungeon/Dungeon.prefab using Guid(c08463c444adec64987067d9a6b65340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27ddf01b0b7571653026c71fff74e17d') in 1.999313 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
