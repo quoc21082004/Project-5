@@ -1,0 +1,1601 @@
+fileFormatVersion: 2
+guid: 4d4af5d5057c04d42a38785131858afc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossGolem_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 929
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ecc2204ef8c104788b3bc1fb4e2330
+      internalID: 758272921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 929
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ec31e92f357e347afe7866bc06676a
+      internalID: 984310828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 927
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9512ae6ce63bcda48871a6cc042c92e5
+      internalID: -2123048965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 926
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd428f9c058d46044adc9eaa6889aa71
+      internalID: 1076773691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 827
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ecfdb3e97b60754c9455aabaa6564dc
+      internalID: 1036880786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 825
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f1348945340a34bb02f32782239d7f
+      internalID: 1270710404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 826
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe4ee5c38878b14bbd23289a8fef1ce
+      internalID: 781795312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 826
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59c913b00b5c424fa2584500c6c6058
+      internalID: -1904137289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 826
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cca80df8fb3407458a6f7251956a7de
+      internalID: -734385324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 826
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8669408d46a044bbcd16f3003aba84
+      internalID: 1309775677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 826
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746824845c7884b4798aa067c3cb2f27
+      internalID: -1765471455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 826
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463fffe2481fc3c41bdb84b84cd57809
+      internalID: 446694953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 720
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5115636b95e6c4f86414f17da064bf
+      internalID: 454210733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 720
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d98509239958934b8db796de3db8e45
+      internalID: -199523838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 720
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c978d0c515cd8924ebf34ee977e7edbc
+      internalID: -1505445236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 720
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce28c9c77e0f94f46a53def00618fa97
+      internalID: 340117957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 721
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b34b7b03b447e4cb72f1165c1e7ea9
+      internalID: -1036136191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 719
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bcbd5ce5319314ea565087620d5b14
+      internalID: 1771996271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 720
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c55ecb36ece0cd45ad9225349e11cea
+      internalID: 647474589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 726
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14e3808d5603b24eb84a481a6280aa0
+      internalID: 258602055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 726
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce4e07cfc7029041b69e30c940af108
+      internalID: 376882751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 626
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4909c43e314134cb6c1ebc2bf9a764
+      internalID: -2054518222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 626
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e4d763a2df5354eb669ee5190c603f
+      internalID: -657459715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 626
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f228a800fbfe414e82c0b184780d981
+      internalID: 1695800487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 626
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e52bf5917ce7e4a8fc94ca34332213
+      internalID: 1558992422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 626
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea21c472aa4ecf4689dda88c11d5d5c
+      internalID: -1499764206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 626
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18f2f9a9b1da6c438fc9b4ca164be65
+      internalID: -2104361133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 626
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1779e2af2996448abf2ada393dcce7
+      internalID: -139063745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 626
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0ebbc5c593be8488e36da03f24d41d
+      internalID: 127431789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4bc4a8661331e94dbcee3c07acba2e6
+      internalID: -718257839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67b339e38dbf054785fb603cdadd811
+      internalID: 2017918179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31981b2a82c92ea488bfb9262019db5c
+      internalID: 2070858909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083e8ebfe73a2884d9844fd9586e08e3
+      internalID: 796479290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d9a0d10c144cf46a197a9f6d582cc2
+      internalID: -945317835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 526
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8420852dac7ad14abd0efad0fd5f8ab
+      internalID: -1572325392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 527
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457521df88ce29b4282387d302cff064
+      internalID: 1112009574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 425
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9967d303c67d29c49874931d324e9992
+      internalID: 2136023887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 425
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b46e515d42b9745a9948f1ce2ec66b
+      internalID: 1072374523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 425
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89559826338dd6845b6dcbe786099636
+      internalID: 1548509850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 425
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcc4c1a9b35e5941862b0b4c19f1ddb
+      internalID: -398060385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 425
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e927b94bc26b0414fb5df6fef9ea6890
+      internalID: -1709484826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 425
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d6ca65f5f16eb49b7d990b8a5644e2
+      internalID: 1659735485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 425
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571e0ccd6bcd4944eb29494b9e5a6d4a
+      internalID: 8586376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 325
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e5f08e37f662544b4c4ff538bd4ab0
+      internalID: -1543142930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 325
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fca1384c62e0e4abeffb59008aa1de
+      internalID: -1054088331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 325
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68fff87bd630f4448454d440a1342f8
+      internalID: -1744796887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 325
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2102044281c4e014cb2453ad35badad9
+      internalID: 1846842925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 325
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a25f3061ec3924a983cc269609553e
+      internalID: -1698846971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 325
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df67971a4dd7e534491d1af18ff0b8d0
+      internalID: 685345121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 325
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fc8b7db2d885f4eae10c86562ab775
+      internalID: -997683736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 325
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39566e41b981fb5408fd116d22758b37
+      internalID: -1473628690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 325
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cddb7c1b9f1dc4f92841959a355d7d
+      internalID: -156249206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1a9240384f5c24a897c95e40bd553f
+      internalID: 1636254396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703a1a067106dfa429a37cd468a44184
+      internalID: -1375195920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea66af9e93ea074aa52b04b342a08e7
+      internalID: -312038555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd57877e7b1cfc41b28f3a3b127041f
+      internalID: 1295638430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2916fb84457ea4bbc1dd7fbec2471c
+      internalID: -83012197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6afad44faee044299402999531114f
+      internalID: -213948783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 224
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d5940b76547534682d8d878c347566
+      internalID: 1060133262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 221
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9a786c09939644bbc61d1c6c3cda0e
+      internalID: -1120957318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 209
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca196daeeeef5443b1a1f26799a6200
+      internalID: 2085619557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 209
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b61f6298debb64e85790cc4781309c
+      internalID: 1076529942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 104
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51b17aa07d9b3243869c626ad66cee4
+      internalID: 1429067449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 104
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16aacaca570db004499289360c9dd217
+      internalID: 794240892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 104
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211e726cb8712c94596105bee3f7ad7f
+      internalID: -1408643930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 104
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4859230f47da604b9cd21b4208c319a
+      internalID: -1330349944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossGolem_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 50
+        width: 14
+        height: 4
+      alignment: 9
+      pivot: {x: 0.524646, y: 0.74646336}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391dc18ae1a3e7d49ad3d2f57ec818fc
+      internalID: -663275477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BossGolem_sheet_0: 758272921
+      BossGolem_sheet_1: 984310828
+      BossGolem_sheet_10: -1765471455
+      BossGolem_sheet_11: 446694953
+      BossGolem_sheet_12: 454210733
+      BossGolem_sheet_13: -199523838
+      BossGolem_sheet_14: -1505445236
+      BossGolem_sheet_15: 340117957
+      BossGolem_sheet_16: -1036136191
+      BossGolem_sheet_17: 1771996271
+      BossGolem_sheet_18: 647474589
+      BossGolem_sheet_19: 258602055
+      BossGolem_sheet_2: -2123048965
+      BossGolem_sheet_20: 376882751
+      BossGolem_sheet_21: -2054518222
+      BossGolem_sheet_22: -657459715
+      BossGolem_sheet_23: 1695800487
+      BossGolem_sheet_24: 1558992422
+      BossGolem_sheet_25: -1499764206
+      BossGolem_sheet_26: -2104361133
+      BossGolem_sheet_27: -139063745
+      BossGolem_sheet_28: 127431789
+      BossGolem_sheet_29: -718257839
+      BossGolem_sheet_3: 1076773691
+      BossGolem_sheet_30: 2017918179
+      BossGolem_sheet_31: 2070858909
+      BossGolem_sheet_32: 796479290
+      BossGolem_sheet_33: -945317835
+      BossGolem_sheet_34: -1572325392
+      BossGolem_sheet_35: 1112009574
+      BossGolem_sheet_36: 2136023887
+      BossGolem_sheet_37: 1072374523
+      BossGolem_sheet_38: 1548509850
+      BossGolem_sheet_39: -398060385
+      BossGolem_sheet_4: 1036880786
+      BossGolem_sheet_40: -1709484826
+      BossGolem_sheet_41: 1659735485
+      BossGolem_sheet_42: 8586376
+      BossGolem_sheet_43: -1543142930
+      BossGolem_sheet_44: -1054088331
+      BossGolem_sheet_45: -1744796887
+      BossGolem_sheet_46: 1846842925
+      BossGolem_sheet_47: -1698846971
+      BossGolem_sheet_48: 685345121
+      BossGolem_sheet_49: -997683736
+      BossGolem_sheet_5: 1270710404
+      BossGolem_sheet_50: -1473628690
+      BossGolem_sheet_51: -156249206
+      BossGolem_sheet_52: 1636254396
+      BossGolem_sheet_53: -1375195920
+      BossGolem_sheet_54: -312038555
+      BossGolem_sheet_55: 1295638430
+      BossGolem_sheet_56: -83012197
+      BossGolem_sheet_57: -213948783
+      BossGolem_sheet_58: 1060133262
+      BossGolem_sheet_59: -1120957318
+      BossGolem_sheet_6: 781795312
+      BossGolem_sheet_60: 2085619557
+      BossGolem_sheet_61: 1076529942
+      BossGolem_sheet_62: 1429067449
+      BossGolem_sheet_63: 794240892
+      BossGolem_sheet_64: -1408643930
+      BossGolem_sheet_65: -1330349944
+      BossGolem_sheet_66: -663275477
+      BossGolem_sheet_7: -1904137289
+      BossGolem_sheet_8: -734385324
+      BossGolem_sheet_9: 1309775677
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
